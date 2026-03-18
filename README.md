@@ -19,6 +19,7 @@ The workflow follows a complete end-to-end machine learning pipeline, starting f
 <p align="center">
   <img src="Images/correlation.png" width="45%" />
   <img src="Images/DistributionofSales.png" width="50%" />
+  <img src="Images/outputs.png" width="50%" />
 </p>
 
 The Linear Regression model serves as a starting point to understand how different features impact housing prices. Model performance is analyzed using standard regression evaluation metrics, providing insight into prediction accuracy and reliability.
