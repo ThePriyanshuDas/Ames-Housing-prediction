@@ -12,7 +12,14 @@ The workflow follows a complete end-to-end machine learning pipeline, starting f
 - Applied feature scaling with StandardScaler  
 - Split dataset into training and testing sets  
 - Built a baseline model using Linear Regression  
-- Evaluated performance using MAE, MSE, and R² score  
+- Evaluated performance using MAE, MSE, and R² score
+
+ ## 📊 Visualizations
+
+<p align="center">
+  <img src="Images/correlation.png" width="45%" />
+  <img src="Images/DistributionofSales.png" width="50%" />
+</p>
 
 The Linear Regression model serves as a starting point to understand how different features impact housing prices. Model performance is analyzed using standard regression evaluation metrics, providing insight into prediction accuracy and reliability.
 
